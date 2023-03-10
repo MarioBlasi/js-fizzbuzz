@@ -1,0 +1,13 @@
+li {
+  background-color: transparent;
+  height: 6.2rem;
+  width: 6.2rem;
+  list-style: none;
+  border: 1px solid black;
+  box-shadow: 1px 1px 5px 5px grey;
+}
+
+ul#box li {
+  float: left;
+  list-style: none;
+}
